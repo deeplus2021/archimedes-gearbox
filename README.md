@@ -4,8 +4,6 @@
 
 > Archimedes is an ETH Amsterdam hackaton project made by [Five Elements Labs](https://fiveelementslabs.com/)
 
-**🏆 Update: Archimedes won the 1st prize for Gearbox Protocol, Yearn Finance and Tribe DAO.**
-
 ## The idea
 
 We built a distribution layer for tokenized DeFi hedged strategies using
